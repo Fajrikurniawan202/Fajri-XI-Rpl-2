@@ -1,0 +1,14 @@
+<?php
+// Profil Diri
+$nama = "Fajri Kurniawan";
+$umur = 16;
+$sekolah = "SMKN 2 Bandung";
+$cita_cita = "Pengusaha";
+
+// Profil Diri
+echo "<h1>Profil</h1>";
+echo "<p><strong>Nama:</strong> $nama</p>";
+echo "<p><strong>Umur:</strong> $umur Tahun</p>";
+echo "<p><strong>Sekolah:</strong> $sekolah</p>";
+echo "<p><strong>Cita-cita:</strong> $cita_cita</p>";
+?>
